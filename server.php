@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$db = mysqli_connect('localhost','root','','NewUser') or die("Unable to connect");
+$db = mysqli_connect('localhost','root','mehta1234','NewUser') or die("Unable to connect");
 
 //register users
 
